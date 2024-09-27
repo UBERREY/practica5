@@ -1,0 +1,6 @@
+Nombre: uber
+Apellidos: reyes
+Telefono: 9615891857
+Estatura: 1.72
+Edad: 18
+Sexo: Hombre
